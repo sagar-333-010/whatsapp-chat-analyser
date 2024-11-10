@@ -1,13 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-WhatsApp Chat Analyser
 
-This script uses Streamlit to create a web application for analyzing WhatsApp chat data.
-It allows users to upload a text file containing a WhatsApp chat conversation and provides various analysis metrics and visualizations.
-
-Author: Abhishek Santosh Gupta
-GitHub: github.com/1abhi6
-"""
 
 import streamlit as st
 from abc import ABC, abstractmethod
